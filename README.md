@@ -20,4 +20,12 @@ Auto.JS软件的安装和使用可以参考 https://github.com/qulingyuan/robVeg
 
 
 
+在代码第11行，
+
+> const wzdl = className("android.widget.TextView").text("我知道了").findOne();
+
+"我知道了"可以替换为出现在你软件里弹窗的文字，例如"返回购物车"
+
+
+
 此脚本用于个人娱乐，请勿用于违法，商业行为。
